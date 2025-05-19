@@ -27,6 +27,4 @@ Run each tool individually:
 
 **Note:** For educational and authorized network administration purposes only.
 
-Réessayer
 
-[Claude peut faire des erreurs. Assurez-vous de vérifier ses réponses.](https://support.anthropic.com/en/articles/8525154-claude-is-providing-incorrect-or-misleading-responses-what-s-going-on)
